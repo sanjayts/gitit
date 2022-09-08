@@ -1,4 +1,8 @@
-# gitit (Rudimentary libgit2 bindings in Rust For Learning Purposes)
+# gitit
+
+# Background
+
+Rudimentary libgit2 bindings in Rust For the purpose of learning FFI and unsafe Rust.
 
 ## Build Notes
 
