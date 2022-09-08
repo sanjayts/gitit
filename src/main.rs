@@ -1,5 +1,4 @@
 use crate::git::Repository;
-use std::ffi::CString;
 
 mod git;
 mod old_main;
